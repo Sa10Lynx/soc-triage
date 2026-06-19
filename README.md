@@ -143,7 +143,10 @@ Open [http://localhost:5173](http://localhost:5173)
 
 ## Screenshots
 
-_[Add screenshots after deployment]_
+<img width="1907" height="868" alt="image" src="https://github.com/user-attachments/assets/bc8f18ab-bb50-4f3a-a1f8-0893c4e4c3cf" />
+<img width="1591" height="731" alt="image" src="https://github.com/user-attachments/assets/7942f09a-c257-4f62-b7cf-3e25c4a1f1c4" />
+<img width="1582" height="833" alt="image" src="https://github.com/user-attachments/assets/ed10898d-342b-468c-844d-600fc915e105" />
+
 
 ---
 
