@@ -9,7 +9,7 @@
 
 > **Cut through alert fatigue.** Paste any raw SIEM/EDR alert and get a structured triage report — severity classification, MITRE ATT&CK mapping, extracted IOCs, and an investigation checklist — in under 15 seconds.
 
-**Live Demo:** _[Coming soon — deploy instructions below]_
+**Live Demo:** https://soc-triage-client.vercel.app
 
 ---
 
